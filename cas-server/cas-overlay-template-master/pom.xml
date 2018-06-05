@@ -100,7 +100,7 @@
 
     <properties>
     	<cas.version.tomcat>5.1.0</cas.version.tomcat>
-        <cas.version>5.1.1</cas.version><!--STEP3 修改版本，高版本目前暂时没有相应的JDBC支持-->
+        <cas.version>5.1.1</cas.version><!-- STEP3 修改版本，高版本目前暂时没有相应的JDBC支持,JDBC版本casServerSupportJdbc5.1.1.jar -->
         <springboot.version>1.5.3.RELEASE</springboot.version>
 <!--          <springboot.version>1.3.3.RELEASE</springboot.version> -->
         <!-- app.server could be -jetty, -undertow, -tomcat, or blank if you plan to provide appserver -->
