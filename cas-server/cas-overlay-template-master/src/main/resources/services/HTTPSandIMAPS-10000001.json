@@ -8,5 +8,5 @@
 	"attributeReleasePolicy": {
 		"@class": "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"
 	},
-	"theme": "yellowcong"
+	"theme": "yellowcong默认的面页为yellowcong"
 }
